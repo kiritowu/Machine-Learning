@@ -32,7 +32,7 @@ This section list out the project Machine Learning Project contained in this rep
         <th>Keywords</th>
     </tr>
     <tr>
-        <td><a href = "https://github.com/kiritowu/Machine_Learning/Mushroom Edibility Classification">Mushroom Edibility Classification</a></td>
+        <td><a href = "https://github.com/kiritowu/Machine_Learning/tree/main/Mushroom%20Edibility%20Classification">Mushroom Edibility Classification</a></td>
         <td>Binary Classification to predict the edibility of mushroom with emphasise on model interpretability.</td>
         <td>
             <em><b>Supervised Learning</b></em>,<br>
@@ -44,7 +44,7 @@ This section list out the project Machine Learning Project contained in this rep
         </td>
     </tr>
     <tr>
-        <td><a href="http://https://github.com/kiritowu/Machine_Learning/King County Housing Regression">King County Housing Regression</a></td>
+        <td><a href="https://github.com/kiritowu/Machine_Learning/tree/main/King%20County%20Housing%20Regression">King County Housing Regression</a></td>
         <td>Predict Housing Prices in King County, USA based on housing attributes.</td>
         <td>
             <em><b>Supervised Learning</b></em>,<br>
