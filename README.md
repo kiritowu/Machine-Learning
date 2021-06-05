@@ -28,7 +28,7 @@ This section list out the project Machine Learning Project contained in this rep
 <table>
     <tr>
         <th>Project Title</th>
-        <th>Description</th>
+        <th>Descriptions</th>
         <th>Keywords</th>
     </tr>
     <tr>
