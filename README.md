@@ -56,7 +56,7 @@ This section list out the project Machine Learning Project contained in this rep
     </tr>
     <tr>
         <td><a href="https://github.com/kiritowu/Machine_Learning/tree/main/Coursera%20Machine%20Learning%20Python%20Assignments">Coursera Machine Learning Python Assignments</a></td>
-        <td>Python assignments for Machine Learning Course on Coursera by Andrew Ng, forked from [dibgerge/ml-coursera-python-assignments](https://github.com/dibgerge/ml-coursera-python-assignments)</td>
+        <td>Notes and Python assignments for Machine Learning Course on Coursera by Andrew Ng</td>
         <td>
             <em><b>Supervised Learning</b></em>,<br>
             <em><b>OLS</b></em>,<br>
