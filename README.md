@@ -24,7 +24,7 @@ Feel free to contact me if you have any queries or spot any mistakes in my imple
 
 ### Table of Contents
 
-This section list out the project Machine Learning Project contained in this repository.
+This section list out the projects in this repository.
 <table>
     <tr>
         <th>Project Title</th>
