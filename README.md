@@ -1,10 +1,6 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://github.com/kiritowu/Machine_Learning">
-    <img src="assets/logo.gif" alt="Jarvis Logo" width="480" height="360">
-  </a>
-
   <h3 align="center">Machine Learning</h3>
 
   <p align="center">
