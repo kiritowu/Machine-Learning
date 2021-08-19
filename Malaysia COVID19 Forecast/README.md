@@ -22,6 +22,6 @@ Technical Paper : [Technical Paper](https://github.com/kiritowu/Machine_Learning
 # Personal Learning Reflection
 In this project, I attempted the problem of COVID-19 forecasting using Time-Series models like SARIMAX. However, I realise that there are more to be done given the data available and I hope that I can take all the findings and publish it as an insightful dashboards to raise public awareness about the pandemic and urge the public to comply to COVID-19 restrictions to stay safe and healthy.
 
-![https://images.unsplash.com/photo-1584036561566-baf8f5f1b144?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=889&q=80](COVID-19 Cliparts)
+![COVID-19 Cliparts](https://images.unsplash.com/photo-1584036561566-baf8f5f1b144?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=889&q=80)
 
 Source : [Fusion Medical Animation, Unsplash](https://unsplash.com/photos/rnr8D3FNUNY)
