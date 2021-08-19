@@ -2,7 +2,7 @@
 
 Author : Wong Zhao Wu, Bryan
 
-Technical Paper : [Technical Paper]()
+Technical Paper : [Technical Paper](https://github.com/kiritowu/Machine_Learning/blob/main/Malaysia%20COVID19%20Forecast/Short-Term%20Forecasting%20of%20COVID-19%20Statistics%20in%20Malaysia%20Using%20Time%20Series%20Analysis%20Model.pdf)
 
 # Modelling Objective
 - To perform EDA and Identify key COVID-19 trend throughout the period.
