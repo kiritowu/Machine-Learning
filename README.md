@@ -12,7 +12,7 @@
 </p>
 
 <!-- ABOUT THE PROJECT -->
-## About The Project
+## About The Repository
 
 This repository serves as an archive of  my learning journey and projects that I have embarked in the realm of Machine Learning and its applications.
 
