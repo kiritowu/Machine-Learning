@@ -77,7 +77,7 @@ This section list out the projects in this repository.
         </td>
     </tr>
     <tr>
-        <td><a href="https://github.com/kiritowu/Machine_Learning/tree/main/Coursera%20Machine%20Learning%20Python%20Assignments">Air Quality Forecasting</a></td>
+        <td><a href="https://github.com/kiritowu/Machine_Learning/tree/main/Air%20Quality%20Forecasting">Air Quality Forecasting</a></td>
         <td>Forecast the air quality of 4 polution gasses for the next 63 days using Time-Series Forecasting techniques.</td>
         <td>
             <em><b>Supervised Learning</b></em>,<br>
