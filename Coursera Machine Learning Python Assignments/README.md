@@ -9,6 +9,6 @@ This repositry contains the python versions of the programming assignments for t
 ## Course Certification
 <a href="https://www.coursera.org/account/accomplishments/verify/GYX8VTAVPGZN"> <img src="https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~GYX8VTAVPGZN/CERTIFICATE_LANDING_PAGE~GYX8VTAVPGZN.jpeg"></a>
 
-## Acknowledgments
+## Credits
 - [dibgerge/ml-coursera-python-assignments](https://github.com/dibgerge/ml-coursera-python-assignments)
 - [Machine Leaning by Andrew Ng](https://www.coursera.org/learn/machine-learning)

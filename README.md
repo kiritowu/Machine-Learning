@@ -14,7 +14,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-This repository contains my learning journey and projects that I have embarked in the realm of Machine Learning and its applications.
+This repository serves as an archive of  my learning journey and projects that I have embarked in the realm of Machine Learning and its applications.
 
 Feel free to contact me if you have any queries or spot any mistakes in my implementation.
 
@@ -64,6 +64,30 @@ This section list out the projects in this repository.
             <em><b>Anomaly Detection</b></em><br>
         </td>
     </tr>
+    <tr>
+        <td><a href="https://github.com/kiritowu/Machine_Learning/tree/main/Mall%20Customer%20Segmentation%20Clustering">Mall Customer Segmentation Clustering</a></td>
+        <td>Achieve Customer Segmentation through Unsupervised Learning Clustering Algorithms.</td>
+        <td>
+            <em><b>Unsupervised Learning</b></em>,<br>
+            <em><b>K-Means Clustering</b></em>,<br>
+            <em><b>Silhouette Analysis</b></em>,<br>
+            <em><b>Hierarchical Clustering</b></em>,<br>
+            <em><b>Spectral Clustering</b></em>,<br>
+            <em><b>Clusters Interpretation</b></em>,<br>
+        </td>
+    </tr>
+    <tr>
+        <td><a href="https://github.com/kiritowu/Machine_Learning/tree/main/Coursera%20Machine%20Learning%20Python%20Assignments">Air Quality Forecasting</a></td>
+        <td>Forecast the air quality of 4 polution gasses for the next 63 days using Time-Series Forecasting techniques.</td>
+        <td>
+            <em><b>Supervised Learning</b></em>,<br>
+            <em><b>Time-Series Forecasting</b></em>,<br>
+            <em><b>ACF & PACF</b></em>,<br>
+            <em><b>ARIMA</b></em>,<br>
+            <em><b>SARIMAX</b></em>,<br>
+            <em><b>Kaggle API</b></em>,<br>
+        </td>
+    </tr>
 </table>
 
 
@@ -93,5 +117,7 @@ Kaggle Profile: [https://www.kaggle.com/kiritowu](https://www.kaggle.com/kiritow
 
 - Mushroom Dataset: [https://archive.ics.uci.edu/ml/datasets/mushroom](https://archive.ics.uci.edu/ml/datasets/mushroom)
 - King Country Housing Dataset: [https://geodacenter.github.io/data-and-lab//KingCounty-HouseSales2015/](https://geodacenter.github.io/data-and-lab//KingCounty-HouseSales2015/)
+- Andrew Ng Machine Learning Python Assignments : [dibgerge/ml-coursera-python-assignments](https://github.com/dibgerge/ml-coursera-python-assignments)
+- Mall Customer Segmentation Dataset : [https://www.kaggle.com/vjchoudhary7/customer-segmentation-tutorial-in-python](https://www.kaggle.com/vjchoudhary7/customer-segmentation-tutorial-in-python)
+- Air Quality Forecasting (Modified) : [https://archive.ics.uci.edu/ml/datasets/Air+Quality](https://archive.ics.uci.edu/ml/datasets/Air+Quality)
 - README Template : [https://github.com/othneildrew/Best-README-Template](https://github.com/othneildrew/Best-README-Template)
-- Logo.gif : [https://gfycat.com/acceptableethicalirukandjijellyfish](https://gfycat.com/acceptableethicalirukandjijellyfish)
