@@ -88,6 +88,17 @@ This section list out the projects in this repository.
             <em><b>Kaggle API</b></em>,<br>
         </td>
     </tr>
+    <tr>
+        <td><a href="https://github.com/kiritowu/Machine_Learning/tree/main/Malaysia%20COVID19%20Forecast">Malaysia COVID-19 Forecasting</a></td>
+        <td>A preliminary exploration in forecasting the key COVID-19 statistics in Malaysia for the next 15-Day.</td>
+        <td>
+            <em><b>Supervised Learning</b></em>,<br>
+            <em><b>COVID-19</b></em>,<br>
+            <em><b>Time-Series Forecasting</b></em>,<br>
+            <em><b>ACF & PACF</b></em>,<br>
+            <em><b>SARIMAX</b></em>,<br>
+        </td>
+    </tr>
 </table>
 
 
@@ -120,4 +131,5 @@ Kaggle Profile: [https://www.kaggle.com/kiritowu](https://www.kaggle.com/kiritow
 - Andrew Ng Machine Learning Python Assignments : [dibgerge/ml-coursera-python-assignments](https://github.com/dibgerge/ml-coursera-python-assignments)
 - Mall Customer Segmentation Dataset : [https://www.kaggle.com/vjchoudhary7/customer-segmentation-tutorial-in-python](https://www.kaggle.com/vjchoudhary7/customer-segmentation-tutorial-in-python)
 - Air Quality Forecasting (Modified) : [https://archive.ics.uci.edu/ml/datasets/Air+Quality](https://archive.ics.uci.edu/ml/datasets/Air+Quality)
+- Malaysia COVID-19 Public Dataset : [MoH-Malaysia/covid19-public](https://github.com/MoH-Malaysia/covid19-public)
 - README Template : [https://github.com/othneildrew/Best-README-Template](https://github.com/othneildrew/Best-README-Template)
